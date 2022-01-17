@@ -1,4 +1,4 @@
-package com.taohuasquare.netty.bytebuffer;
+package com.taohuasquare.netty.c1.bytebuffer;
 
 import java.io.IOException;
 import java.io.RandomAccessFile;

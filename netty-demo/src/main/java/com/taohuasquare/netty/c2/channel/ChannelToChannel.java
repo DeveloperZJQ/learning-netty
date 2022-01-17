@@ -1,7 +1,6 @@
-package com.taohuasquare.netty.channel;
+package com.taohuasquare.netty.c2.channel;
 
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.nio.channels.FileChannel;
