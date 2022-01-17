@@ -1,4 +1,4 @@
-package com.taohuasquare.netty.c1;
+package com.taohuasquare.netty.bytebuffer;
 
 import lombok.extern.slf4j.Slf4j;
 

@@ -1,4 +1,4 @@
-package com.taohuasquare.netty.c1;
+package com.taohuasquare.netty.bytebuffer;
 
 import lombok.extern.slf4j.Slf4j;
 
@@ -7,7 +7,7 @@ import java.io.RandomAccessFile;
 import java.nio.ByteBuffer;
 import java.nio.channels.FileChannel;
 
-import static com.taohuasquare.netty.c1.ByteBufferUtil.debugAll;
+import static com.taohuasquare.netty.bytebuffer.ByteBufferUtil.debugAll;
 
 /**
  * @author happy

@@ -1,8 +1,8 @@
-package com.taohuasquare.netty.c1;
+package com.taohuasquare.netty.bytebuffer;
 
 import java.nio.ByteBuffer;
 
-import static com.taohuasquare.netty.c1.ByteBufferUtil.debugAll;
+import static com.taohuasquare.netty.bytebuffer.ByteBufferUtil.debugAll;
 
 /**
  * @author happy

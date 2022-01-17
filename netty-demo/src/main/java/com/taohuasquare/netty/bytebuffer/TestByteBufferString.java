@@ -1,10 +1,9 @@
-package com.taohuasquare.netty.c1;
+package com.taohuasquare.netty.bytebuffer;
 
 import java.nio.ByteBuffer;
-import java.nio.charset.Charset;
 import java.nio.charset.StandardCharsets;
 
-import static com.taohuasquare.netty.c1.ByteBufferUtil.debugAll;
+import static com.taohuasquare.netty.bytebuffer.ByteBufferUtil.debugAll;
 
 /**
  * @author happy
