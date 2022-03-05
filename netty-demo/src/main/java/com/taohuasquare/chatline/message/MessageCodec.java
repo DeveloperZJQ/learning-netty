@@ -1,4 +1,4 @@
-package com.taohuasquare.netty.protocol.message;
+package com.taohuasquare.chatline.message;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.channel.ChannelHandlerContext;
